@@ -1,0 +1,40 @@
+_repo: A-Lady-of-Quality--13-Being-a-Most-Curious-Hitherto-Unknown-History-as-Related-by-Mr.-Isaac-Bi__1550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Hodgson, Frances Eliza
+    - Townesend, Frances Eliza Hodgson Burnett
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: Cover; Title Page; Copyright; Dedication; Contents; The Twenty-Fourth
+  Day of November 1690; In Which Sir Jeoffry Encounters His Offspring; Wherein Sir
+  Jeoffry's Boon Companions Drink a Toast; Lord Twemlow's Chaplain Visits His Patron's
+  Kinsman, and Mistress Clorinda Shines on Her Birthday Night; 'Not I, ' said she.
+  'There thou mayst trust me. I would not be found out.'; Relating How Mistress Anne
+  Discovered a Miniature; 'Twas the Face of Sir John Oxon the Moon Shone Upon; Two
+  Meet in the Deserted Rose Garden, and the Old Earl of Dunstanwolde Is Made a Happy
+  Man.
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Historical Fiction
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Nobility -- Fiction'
+- GITenberg
+title: "A Lady of Quality\r\nBeing a Most Curious, Hitherto Unknown History, as Related\
+  \ by Mr. Isaac Bickerstaff but Not Presented to the World of Fashion Through the\
+  \ Pages of The Tatler, and Now for the First Time Written Down"
+url: http://www.gutenberg.org/ebooks/1550
