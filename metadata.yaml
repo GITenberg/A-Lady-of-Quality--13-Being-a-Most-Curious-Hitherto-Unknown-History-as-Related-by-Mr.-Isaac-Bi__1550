@@ -1,5 +1,8 @@
 _repo: A-Lady-of-Quality--13-Being-a-Most-Curious-Hitherto-Unknown-History-as-Related-by-Mr.-Isaac-Bi__1550
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -19,6 +22,8 @@ description: Cover; Title Page; Copyright; Dedication; Contents; The Twenty-Four
   Discovered a Miniature; 'Twas the Face of Sir John Oxon the Moon Shone Upon; Two
   Meet in the Deserted Rose Garden, and the Old Earl of Dunstanwolde Is Made a Happy
   Man.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1550#A-Lady-of-Quality--13-Being-a-Most-Curious-Hitherto-Unknown-History-as-Related-by-Mr.-Isaac-Bi_
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Historical Fiction
